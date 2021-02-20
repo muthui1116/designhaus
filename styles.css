@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(250, 249, 249);
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+.nav-link{
+    font-family: 'Montserrat-light', sans-serif;
+}
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;  
+}
+.navbar{
+    padding: 0 0 3rem;
+}
+p{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 5%;
+}
