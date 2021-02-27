@@ -11,7 +11,7 @@ body{
     font-family: 'Montserrat-light', sans-serif;
 }
 .container-fluid{
-    padding: 3% 2%;
+    padding: 2% 2%;
 }
 .col-md-9{
     text-align: center;
@@ -22,12 +22,6 @@ body{
 .carousel{
     background-color: rgb(97, 97, 97);
 }
-.row1{
-    width:100%;
-}
-.bottom-container{
-    margin-top: 2rem;
-}
 a{
     text-decoration: none;
 }
@@ -35,10 +29,13 @@ h4, .p{
     color:#fff;
 }
 .feature-box{
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     color: rgb(173, 169, 169);
 }
 .feature-box:hover{
     color: #000;
+}
+.bottom-container{
+    margin-top: 1rem;
 }
 
